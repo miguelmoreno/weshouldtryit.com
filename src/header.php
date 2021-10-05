@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>We Should Try It - online sex questionnaire for couples</title>
+<title>We Should Try It - online sex questionnaire for couples!!!</title>
 
 <link rel="stylesheet" href="<?php=$conf['main_url']?>js/bootstrap/css/bootstrap.min.css">
 <link rel="stylesheet" href="<?php=$conf['main_url']?>js/bootstrap/css/bootstrap-theme.min.css">

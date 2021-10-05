@@ -31,16 +31,16 @@
     
     //$patreon = array();
     //$patreon['footer'] = '<div class="panel panel-default">
-    <div class="panel-heading">
-        <h3 class="panel-title">Please support WeShouldTryIt.com</h3>
-    </div>
-        <div class="panel-body">
-            We really hope our website helps to improve your and your partner\'s sex life. It takes money to run WeShouldTryIt, please consider donating 1 USD and supporting us on Patreon. 
-            <p>Improving your sex life is priceless, please support us in this cause to help other people!</p>                        
-            
-            <P><a href="https://www.patreon.com/weshouldtryit" class="btn btn-success btn-block" target="_blank" style="margin-top:20px">Donate 1 USD</a>
-        </div>
-    </div>
-     '; 
+    //<div class="panel-heading">
+    //    <h3 class="panel-title">Please support WeShouldTryIt.com</h3>
+    //</div>
+    //    <div class="panel-body">
+    //        We really hope our website helps to improve your and your partner\'s sex life. It takes money to run WeShouldTryIt, please consider donating 1 USD and supporting us on Patreon. 
+    //        <p>Improving your sex life is priceless, please support us in this cause to help other people!</p>                        
+    //        
+     //       <P><a href="https://www.patreon.com/weshouldtryit" class="btn btn-success btn-block" target="_blank" style="margin-top:20px">Donate 1 USD</a>
+    //    </div>
+    //</div>
+    // '; 
     
 ?>
