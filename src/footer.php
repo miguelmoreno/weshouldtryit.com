@@ -126,35 +126,19 @@
    <hr>
       <footer>
         <div class="pull-left">
-        We are open source, please contribute.
-        <a href="https://github.com/weshouldtryit/weshouldtryit.com" target="_blank"><img src="GitHub_Logo.png" class="img-responsive"></a></div>
+            We are open source, please contribute.
+        </div>
         
-         <ul class="nav navbar-nav navbar-right">
-             
-            <li><a href="<?php=$conf['main_url']?>">Home</a></li>
-            <li><a href="<?php=$conf['main_url']?>contact/">Contact Us</a></li>
-            <li><a href="<?php=$conf['main_url']?>terms/">Terms</a></li>
-            <li><a href="<?php=$conf['main_url']?>privacy/">Privacy Policy</a></li>
-            <li><a href="<?php=$conf['main_url']?>" class="text-muted"><?php=date("Y")?> &copy; We Should Try It.com</a></li>
-        </ul>
-        
-        </p>
-        
+        <ul class="nav navbar-nav navbar-right"> 
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Contact Us</a></li>
+            <li><a href="#">Terms</a></li>
+            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#" class="text-muted"><?php=date("Y")?> &copy; We Should Try It.com</a></li>
+        </ul>        
       </footer>
 
- </div> <!-- /container -->
- 
- <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47133146-1', 'weshouldtryit.com');
-  ga('send', 'pageview');
-
-</script>
-
+ </div>
  
 </body>
 </html>

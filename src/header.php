@@ -2,19 +2,23 @@
 <html>
     <HEAD>
         <meta charset="utf-8">
-        <title>We Should Try It - online sex questionnaire for couples!!!</title>
-
-        <link rel="stylesheet"href="./js/bootstrap/css/bootstrap.min.css"/>
-        <link rel="stylesheet"href="./js/bootstrap/css/bootstrap-theme.min.css"/>
-
-        <link rel="stylesheet"href="./css/style.css"	type="text/css"/>  
-
-        <script src="<?php=$conf['main_url']?>js/jquery.min.js"></script>
-        <script src="<?php=$conf['main_url']?>js/bootstrap/js/bootstrap.min.js"></script>
-  
-        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
- 
+        <title>Me and you!!!</title>
         
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"                           
+                integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.min.js" 
+                integrity="sha384-skAcpIdS7UcVUC05LJ9Dxay8AXcDYfBJqt1CJ85S/CFujBsIzCIv+l9liuYLaMQ/" crossorigin="anonymous"></script>
+  
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+              integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" 
+              integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <link href="./css/style.css" rel="stylesheet">  
     </HEAD>
  
     <BODY>

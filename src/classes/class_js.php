@@ -531,7 +531,7 @@
                               				                  }
                               				              
                               				              $("#modal_custom").modal("hide")
-                              				             // alert(html["msg"]);  
+                              				                alert(html["msg"]);  
                               				          
                               				               
                               				          }

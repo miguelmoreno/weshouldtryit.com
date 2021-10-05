@@ -2,6 +2,7 @@
     require('global_db.php');
 
     $conf = array();
+
     $conf['main_name'] = '"We Should Try It"';
     $conf['main_url'] = 'http://localhost:45078/src/';
 
@@ -14,7 +15,7 @@
 
 
     //display ads in results
-    $ads = array();
+    //$ads = array();
     //$ads['group']['Basics'][] = 'Discover the latest <a href="http://www.shareasale.com/r.cfm?b=382796&u=1178408&m=36326&urllink=&afftrack=" target="_blank">New Lingerie</a>!';
     //$ads['group']['Basics'][] = '<a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">Fancy dress</a> and <a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">sexy costumes</a>!';
 

@@ -1,31 +1,20 @@
-      
 
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h1>Explore your partner!</h1>
         <p class="lead">
-         "We Should Try It" is an online sex questionnaire for couples. Once you and your partner answer all the questions about various sexual fantasies, we display only sex fantasies that <strong>you are both into</strong>.
-         
-        
+            "We Should Try It" is an online sex questionnaire for couples. Once you and your partner answer all the questions about various sexual fantasies, we display only sex fantasies that <strong>you are both into</strong>.
         </p>
-        <p><button class="btn btn-success btn-lg" data-toggle="modal" data-backdrop="static"  data-target="#myModal">Get started!</button>
-        
-         
-           <a class="btn btn-lg btn-primary" href="<?php=$conf['main_url']?>questions/" role="button">View questions</a>
-           
-           <a class="btn btn-lg btn-primary" href="<?php=$conf['main_url']?>index.php?a=stats" role="button">View Stats</a>
-        
+
+        <p>
+            <button class="btn btn-lg btn-success"  data-toggle="modal" data-backdrop="static"  data-target="#myModal">Get started!</button>         
+            <a      class="btn btn-lg btn-primary"  href="<?php=$conf['main_url']?>questions/" role="button">View questions</a>
+            <a      class="btn btn-lg btn-primary"  href="<?php=$conf['main_url']?>index.php?a=stats" role="button">View Stats</a>
         </p>
-        
-        
-        
       </div>
       
-        
-
-     
-
-      <!-- Example row of columns -->
+      
+    <!-- Example row of columns -->
       <div class="row">
         <div class="col-lg-4">
           <h2>Fully anonymous.</h2>          
