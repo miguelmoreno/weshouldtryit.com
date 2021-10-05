@@ -1,4 +1,4 @@
-<?
+<?php
     require('global_db.php');
     
     $conf = array();
@@ -15,13 +15,13 @@
     
     //display ads in results
     $ads = array();
-    $ads['group']['Basics'][] = 'Discover the latest <a href="http://www.shareasale.com/r.cfm?b=382796&u=1178408&m=36326&urllink=&afftrack=" target="_blank">New Lingerie</a>!';
-    $ads['group']['Basics'][] = '<a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">Fancy dress</a> and <a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">sexy costumes</a>!';
+    //$ads['group']['Basics'][] = 'Discover the latest <a href="http://www.shareasale.com/r.cfm?b=382796&u=1178408&m=36326&urllink=&afftrack=" target="_blank">New Lingerie</a>!';
+    //$ads['group']['Basics'][] = '<a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">Fancy dress</a> and <a href="http://www.shareasale.com/r.cfm?b=382756&u=1178408&m=36326&urllink=&afftrack=" target="_blank">sexy costumes</a>!';
     
-    $ads['group']['Playing with Toys'][] = 'Discover the latest <a href="http://www.shareasale.com/r.cfm?b=382767&u=1178408&m=36326&urllink=&afftrack=" target="_blank">new sex toys</a>, if it\'s new, it\'s here first!';
-    $ads['group']['Playing with Toys'][] = 'Buy from our collection of <a href="http://www.shareasale.com/r.cfm?b=382761&u=1178408&m=36326&urllink=&afftrack=" target="_blank">sexy couple’s adult toys</a> and get free shipping on your order';
+    //$ads['group']['Playing with Toys'][] = 'Discover the latest <a href="http://www.shareasale.com/r.cfm?b=382767&u=1178408&m=36326&urllink=&afftrack=" target="_blank">new sex toys</a>, if it\'s new, it\'s here first!';
+    //$ads['group']['Playing with Toys'][] = 'Buy from our collection of <a href="http://www.shareasale.com/r.cfm?b=382761&u=1178408&m=36326&urllink=&afftrack=" target="_blank">sexy couple’s adult toys</a> and get free shipping on your order';
     
-    $ads['group']['Playing with Toys'][] = 'Find the best <a href="http://www.shareasale.com/r.cfm?b=382769&u=1178408&m=36326&urllink=&afftrack=" target="_blank">rabbit vibrator</a> for you and get free shipping with every purchase!';
+    //$ads['group']['Playing with Toys'][] = 'Find the best <a href="http://www.shareasale.com/r.cfm?b=382769&u=1178408&m=36326&urllink=&afftrack=" target="_blank">rabbit vibrator</a> for you and get free shipping with every purchase!';
    
     //ad more ads - todo 
     //$ads['group']['B.D.S.M.'] = '';
@@ -29,8 +29,8 @@
     //Group and Public Fun
     //Other Fetishes
     
-    $patreon = array();
-    $patreon['footer'] = '<div class="panel panel-default">
+    //$patreon = array();
+    //$patreon['footer'] = '<div class="panel panel-default">
     <div class="panel-heading">
         <h3 class="panel-title">Please support WeShouldTryIt.com</h3>
     </div>

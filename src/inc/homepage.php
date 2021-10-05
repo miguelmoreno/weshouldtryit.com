@@ -11,9 +11,9 @@
         <p><button class="btn btn-success btn-lg" data-toggle="modal" data-backdrop="static"  data-target="#myModal">Get started!</button>
         
          
-           <a class="btn btn-lg btn-primary" href="<?=$conf['main_url']?>questions/" role="button">View questions</a>
+           <a class="btn btn-lg btn-primary" href="<?php=$conf['main_url']?>questions/" role="button">View questions</a>
            
-           <a class="btn btn-lg btn-primary" href="<?=$conf['main_url']?>index.php?a=stats" role="button">View Stats</a>
+           <a class="btn btn-lg btn-primary" href="<?php=$conf['main_url']?>index.php?a=stats" role="button">View Stats</a>
         
         </p>
         

@@ -1,4 +1,4 @@
-<?
+<?php
 
 //basics
     $txt = "

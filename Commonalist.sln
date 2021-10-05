@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "Commonalist", "Commonalist.phpproj", "{7132E6A4-937D-4444-94D6-BA82C10F243A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7132E6A4-937D-4444-94D6-BA82C10F243A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7132E6A4-937D-4444-94D6-BA82C10F243A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7132E6A4-937D-4444-94D6-BA82C10F243A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7132E6A4-937D-4444-94D6-BA82C10F243A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D2501B-C782-4BCE-8DEB-7E61D66B72D3}
+	EndGlobalSection
+EndGlobal

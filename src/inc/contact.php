@@ -23,5 +23,5 @@
 <div id="email_form_sent" style="display:none">
 
     <div class="alert alert-success"><strong>Your message has been sent successfully.</strong>
-    <p><a href="<?=$conf['main_url']?>contact/" class="btn btn-primary">Send another message</a></div>
+    <p><a href="<?php=$conf['main_url']?>contact/" class="btn btn-primary">Send another message</a></div>
 </div>

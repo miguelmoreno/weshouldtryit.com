@@ -87,7 +87,7 @@
   
     <div class="checkbox">
     <label>
-      <input type="checkbox" value=1 id="terms_checkbox"> I confirm that me and my partner are over 18 years of age and I agree to <a href="<?=$conf['main_url']?>terms/" target=_blank>terms and conditions</a>
+      <input type="checkbox" value=1 id="terms_checkbox"> I confirm that me and my partner are over 18 years of age and I agree to <a href="<?php=$conf['main_url']?>terms/" target=_blank>terms and conditions</a>
     </label>
   </div>
   
@@ -131,11 +131,11 @@
         
          <ul class="nav navbar-nav navbar-right">
              
-            <li><a href="<?=$conf['main_url']?>">Home</a></li>
-            <li><a href="<?=$conf['main_url']?>contact/">Contact Us</a></li>
-            <li><a href="<?=$conf['main_url']?>terms/">Terms</a></li>
-            <li><a href="<?=$conf['main_url']?>privacy/">Privacy Policy</a></li>
-            <li><a href="<?=$conf['main_url']?>" class="text-muted"><?=date("Y")?> &copy; We Should Try It.com</a></li>
+            <li><a href="<?php=$conf['main_url']?>">Home</a></li>
+            <li><a href="<?php=$conf['main_url']?>contact/">Contact Us</a></li>
+            <li><a href="<?php=$conf['main_url']?>terms/">Terms</a></li>
+            <li><a href="<?php=$conf['main_url']?>privacy/">Privacy Policy</a></li>
+            <li><a href="<?php=$conf['main_url']?>" class="text-muted"><?php=date("Y")?> &copy; We Should Try It.com</a></li>
         </ul>
         
         </p>
