@@ -2,7 +2,6 @@
 
     class ask {
         
-        
         //start new questions process
         
          function register_session()
@@ -223,9 +222,9 @@
                 
                 
                 //make 3 links (own,partner,results)
-                $link_own = $conf['main_url'].'index.php?a=start&key='.$ask_key;
-                $link_partner = $conf['main_url'].'index.php?a=start&key='.$ask_key_partner;
-                $link_results = $conf['main_url'].'index.php?a=results&key='.$results_key;
+                $link_own       = $conf['main_url'].'index.php?a=start&key='.$ask_key;
+                $link_partner   = $conf['main_url'].'index.php?a=start&key='.$ask_key_partner;
+                $link_results   = $conf['main_url'].'index.php?a=results&key='.$results_key;
                 
                
                   if($partner == 1)
